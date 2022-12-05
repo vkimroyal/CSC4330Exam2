@@ -1,4 +1,4 @@
-# CSC 4330: Exam 2
+# CSC 4330: Exam 2 (Revised)
 By Vincent Kim
 <br>CSC 4330: Programming Language Concepts
 <br><br>
