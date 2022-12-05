@@ -1,9 +1,9 @@
 # CSC 4330: Exam 2 (Revised)
 By Vincent Kim
 <br>CSC 4330: Programming Language Concepts
-<br><br>
+<br>
 
-<i>Rules revised and analyzers redone in Python.<br>
+<i>Rules revised and analyzers redone in Python 3.10+.<br>
 You can run the analyzer here: https://replit.com/@VincentKim3/Test2Redo#main.py</i>
 
 ```txt
